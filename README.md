@@ -9,6 +9,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+## 使用介绍
+下载压缩文件，按照相关模板配置按要求点击即可(存在相关的字段可以自动识别处理)
 
 ## 项目简介
 
